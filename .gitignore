@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+env/
+.env/
+rassam_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
